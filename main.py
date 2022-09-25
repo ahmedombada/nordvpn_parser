@@ -67,13 +67,6 @@ def get_ips(url):
     return ips
 
 
-def better_func(ip_address, cidr):
-    if IPAddress(ip_address) in IPNetwor(cidr):
-        print("match")
-    else:
-        print("miss")
-
-
 def search(_subnets, _hosts):
     matching_hosts = []
     not_matching_hosts = []
