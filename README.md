@@ -5,8 +5,9 @@ Note: do not edit the `[default]` line.
 
 ## How to use
 1. Clone the repo.
-2. change permissions of the file `main.py` by issuing `chmod +x main.py`.
-3. run `./main.py --help` to see the options provided.
+2. Install requirments by issuing `pip3 install -r requirements.txt`
+3. change permissions of the file `main.py` by issuing `chmod +x main.py`.
+4. run `./main.py --help` to see the options provided.
 
 ## defaults:
 1. Config file name: `config`. this can be changed by passing the flag `-c`
