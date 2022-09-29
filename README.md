@@ -1,7 +1,7 @@
 # nordvpn_parser
 Edit the config file for the values that you need.
 
-Note: do not edit the `[default]` line.
+Note: The config file is an is written in `ini` format. do not edit the `[default]` line.
 
 ## How to use
 1. Clone the repo.
